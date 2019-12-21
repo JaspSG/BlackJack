@@ -29,3 +29,7 @@ Jack/Queen/King values are 10.
 Aces are either 1 or 11, whichever is preferable for player.
 Game over when player runs out of chips.
 
+#Reflection
+Learnt basics of OOP programming as well as the use of classes throughout the project.
+The importance of planning before coding to ensure logic does not run all over the place.
+Try to not have many things going on in one function to prevent confusion
